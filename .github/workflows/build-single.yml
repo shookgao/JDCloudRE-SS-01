@@ -18,6 +18,7 @@ on:
           - IPQ60XX-NO-WIFI
           - IPQ807X-WIFI
           - IPQ807X-NO-WIFI
+          - AX1800PRO
       SOURCE:
         default: 'VIKINGYFY/immortalwrt'
         required: true
